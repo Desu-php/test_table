@@ -1,0 +1,20 @@
+{
+    "name": "bakha/test-table",
+    "authors": [
+        {
+            "name": "Desu-php",
+            "email": "Teaddyson@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "core",
+            "app"
+        ]
+    },
+    "require": {
+        "illuminate/database": "^8.33",
+        "illuminate/events": "^8.33",
+        "illuminate/Pagination": "^8.34"
+    }
+}
